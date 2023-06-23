@@ -1,0 +1,10 @@
+.App{
+  display: flex;
+  grid-template-columns: 300px 500px;
+  margin-top: 10px;
+}
+button{
+  cursor: pointer;
+}
+
+

@@ -1,0 +1,13 @@
+.newTask{
+    width: 500px;
+    margin-right: 0px;
+}
+
+h2{
+    font-size: 18px;
+    text-align: center;
+    line-height: 1px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}

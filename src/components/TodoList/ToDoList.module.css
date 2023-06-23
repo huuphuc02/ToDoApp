@@ -1,0 +1,120 @@
+.toDoList{
+    border-left: 2px solid black;
+    min-height: max-content;
+    padding-left:30px;
+    margin-bottom: 20px;
+    width: max-content;
+}
+
+h2{
+    font-size: 18px;
+    text-align: center;
+    line-height: 1px;
+    padding: 5px;
+}
+
+#searchInput{
+    width: 650px;
+    height: 23px;
+    font-size: 15px;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #BDBDBD;
+    border-radius: 5px;
+}
+
+.todo{
+    width: inherit;
+    height: 61px;
+    display: flex;
+    border: 1px solid ;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+#check{
+    width: 50px;
+    height: 20px;
+    margin-top: 10px;
+}
+
+.todoName{
+    width: 240px;
+    height: 29px;
+    color: #333333;
+    font-size: 16px;
+    text-align: left;
+    line-height: 1px;
+    padding: 5px;
+}
+
+.btnDetail{
+    width: 93px;
+    height: 27px;
+    color: #FFFFFF;
+    text-align: center;
+    background: #00BCD4;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.btnRemove{
+    width: 79px;
+    height: 28px;
+    color: #FFFFFF;
+    text-align: center;
+    background: #D9534F;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.todoDetail{
+    width: inherit;
+    height: max-content;
+    border: 1px solid #000000;
+    padding: 20px 80px
+}
+.bulkArea{
+    margin-top: 60px;
+    display: flex;
+    width: 670px;
+    height: 82px;
+    background: #E0E0E0;
+    border: 1px solid #000000;
+    
+}
+
+.bulkArea h3{
+    width: 200px;
+    height: 80px;
+    color: #333333;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 1px;
+    padding: 20px;
+}
+
+.btnDone{
+    width: 110px;
+    height: 36px;
+    color: #FFFFFF;
+    text-align: center;
+    background: #2196F3;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 180px;
+}
+
+.btnRemove2{
+    width: 106px;
+    height: 35px;
+    color: #FFFFFF;
+    text-align: center;
+    background: #D9534F;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
